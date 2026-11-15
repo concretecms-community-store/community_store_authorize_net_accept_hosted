@@ -9,7 +9,7 @@ class Controller extends Package
 {
     protected $pkgHandle = 'community_store_authorize_net_accept_hosted';
     protected $appVersionRequired = '8.0';
-    protected $pkgVersion = '1.0';
+    protected $pkgVersion = '1.0.1';
 
 
     protected $pkgAutoloaderRegistries = [
